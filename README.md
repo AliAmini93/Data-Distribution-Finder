@@ -8,3 +8,4 @@ The results are then available on the Result tab. The Result tab displays the be
 ![app_result](https://user-images.githubusercontent.com/96921261/180924190-ac8959d0-2bcf-4be4-9edf-8c60913450d8.JPG)
 
 The sums of squared errors associated with each distribution fitted on the input data histogram were ranked by this application. In the final output file, the corresponding fitting errors may be obtained. The output file also contains the data histogram and best-fitting distribution charts. Finally, these findings may be saved as an Excel spreadsheet.
+This application is built on pyqt5(https://github.com/PyQt5) and utilized the fitter library(https://github.com/cokelaer/fitter) for selecting the best-fitting distribution.
