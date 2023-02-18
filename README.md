@@ -1,4 +1,4 @@
-# Data-Distribution-Finder
+# Data Distribution Finder
 There are three buttons and two tabs in this application. The input file data is loaded by selecting the Browse button. Furthermore, every process may be viewed on the Log tab. In the About Application section, users may find the proper input format. After the data has been loaded, By hitting the Run button, the program examines the histogram of the input data for the best-fitted distribution.
 
 ![image](https://user-images.githubusercontent.com/96921261/180920377-dc8ff6e9-a523-4aa4-866b-b41d2d0d910b.png)
